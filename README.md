@@ -1,2 +1,2 @@
 # dart-flutter
- repositório para adicionar arquivos estudos durante cursos de dart e flutter.
+ repositório para adicionar arquivos durante estudo de dart e flutter.
